@@ -1,0 +1,12 @@
+{
+  "name": "fylo",
+  "version": "1.0.0",
+  "description": "Landing page de la compañía Fylo en Dark Theme. Cliente solicita maquetación utilizando Javascript, CSS y HTML en base a diseño entregado.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "author": "Ignacia Silva",
+  "license": "ISC"
+}
